@@ -1,0 +1,14 @@
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.exe
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.deps.json
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.runtimeconfig.json
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.runtimeconfig.dev.json
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.dll
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\WeatherProgram.pdb
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.AssemblyInfoInputs.cache
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.AssemblyInfo.cs
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.csproj.CoreCompileInputs.cache
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.dll
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.pdb
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.genruntimeconfig.cache
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.csproj.CopyComplete

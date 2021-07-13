@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": -86.8025,
+    "lat": 33.5207
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.26,
+    "feels_like": 304.86,
+    "temp_min": 300.34,
+    "temp_max": 303.97,
+    "pressure": 1024,
+    "humidity": 63
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.6,
+    "deg": 180
+  },
+  "clouds": { "all": 75 },
+  "dt": 1626204815,
+  "sys": {
+    "type": 1,
+    "id": 3436,
+    "country": "US",
+    "sunrise": 1626173219,
+    "sunset": 1626224314
+  },
+  "timezone": -18000,
+  "id": 4049979,
+  "name": "Birmingham",
+  "cod": 200
+}{
+
+}
