@@ -12,3 +12,4 @@ C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3
 C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.genruntimeconfig.cache
 C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.csproj.CopyComplete
+C:\Users\tjvin\Desktop\repos\WeatherProgram\WeatherProgram\obj\Debug\netcoreapp3.1\WeatherProgram.csproj.AssemblyReference.cache

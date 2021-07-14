@@ -6,7 +6,7 @@ namespace WeatherProgram
 {
     class Program
     {
-        //POTENTIAL TODOS: further specification of location, alternative means of accessing "temp"
+        //POTENTIAL TODOS: further specification of location
         static void Main(string[] args)
         {
             Console.WriteLine("What U.S. city do you need the current temperature (Fahrenheit) of?");
@@ -18,11 +18,9 @@ namespace WeatherProgram
 
             var weatherResponse = client.GetStringAsync(weatherURL).Result;
 
-            var weatherMain = JObject.Parse(weatherResponse).GetValue("main").ToString();
+            var weatherMain = double.Parse(JObject.Parse(weatherResponse).SelectToken("main.temp").ToString());
 
-            var weatherTemp = double.Parse(JObject.Parse(weatherMain).GetValue("temp").ToString());
-
-            Console.WriteLine("The current weather is approximately " + Math.Round((weatherTemp - 273.15) * 9 / 5 + 32) +
+            Console.WriteLine("The current weather is approximately " + Math.Round((weatherMain - 273.15) * 9 / 5 + 32) +
                 " degrees Fahrenheit.");
         }
     }
